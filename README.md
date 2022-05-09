@@ -1,8 +1,8 @@
-<h3>About GeoFence App</h3>
+<h3>About LocationFence App</h3>
 <ul>
-<li>geoFence is an andriod app which helps user to change sound profile based on location.</li>
+<li>LocationFence is an andriod app which helps user to change sound profile based on location.</li>
 <li>This can be done by searching location like office, school , any places and save it.</li> 
-<li>As a result, it will create a geoFence on saved location, which will change sound profile while you enter that location and also ping users if they enter that location</li> 
+<li>As a result, it will create a fence on saved location, which will change sound profile while you enter that location and also ping users if they enter that location</li> 
 <li>For example, if you save your office location, than when you enter office area it which make you phone silent and when you leave the office area it will return to normal mode and also provide notification.</li>
 </ul>
 
